@@ -1,0 +1,1524 @@
+[
+    {
+        "name": "British Museum",
+        "category": "museum",
+        "description": "Huge free museum - the Rosetta Stone and the Egyptian mummies are the highlights.",
+        "tags": [
+            "history",
+            "culture",
+            "free days out"
+        ],
+        "area": "Bloomsbury",
+        "postcode": "WC1B 3DG",
+        "nearest_station": "Tottenham Court Road",
+        "latitude": 51.5194,
+        "longitude": -0.127,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Natural History Museum",
+        "category": "museum",
+        "description": "Famous for the dinosaur skeletons and the massive blue whale in Hintze Hall.",
+        "tags": [
+            "family",
+            "science",
+            "dinosaurs"
+        ],
+        "area": "South Kensington",
+        "postcode": "SW7 5BD",
+        "nearest_station": "South Kensington",
+        "latitude": 51.4967,
+        "longitude": -0.1764,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Science Museum",
+        "category": "museum",
+        "description": "Lots of hands-on stuff, great for kids. Space and flight galleries are the best bits.",
+        "tags": [
+            "science",
+            "family"
+        ],
+        "area": "South Kensington",
+        "postcode": "SW7 2DD",
+        "nearest_station": "South Kensington",
+        "latitude": 51.4978,
+        "longitude": -0.1745,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Victoria and Albert Museum",
+        "category": "museum",
+        "description": "Art and design museum with fashion, jewellery and a really nice courtyard cafe.",
+        "tags": [
+            "art",
+            "design",
+            "fashion"
+        ],
+        "area": "South Kensington",
+        "postcode": "SW7 2RL",
+        "nearest_station": "South Kensington",
+        "latitude": 51.4966,
+        "longitude": -0.1722,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Tate Modern",
+        "category": "gallery",
+        "description": "Modern art inside an old power station. The Turbine Hall is worth seeing on its own.",
+        "tags": [
+            "art",
+            "modern"
+        ],
+        "area": "Bankside",
+        "postcode": "SE1 9TG",
+        "nearest_station": "Southwark",
+        "latitude": 51.5076,
+        "longitude": -0.0994,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Tate Britain",
+        "category": "gallery",
+        "description": "Quieter than Tate Modern. British paintings including Turner and the Pre-Raphaelites.",
+        "tags": [
+            "art",
+            "history"
+        ],
+        "area": "Millbank",
+        "postcode": "SW1P 4RG",
+        "nearest_station": "Pimlico",
+        "latitude": 51.491,
+        "longitude": -0.1278,
+        "adult_price": 0.0
+    },
+    {
+        "name": "National Gallery",
+        "category": "gallery",
+        "description": "Van Gogh's Sunflowers and loads of classic paintings, right on Trafalgar Square.",
+        "tags": [
+            "art",
+            "history"
+        ],
+        "area": "Trafalgar Square",
+        "postcode": "WC2N 5DN",
+        "nearest_station": "Charing Cross",
+        "latitude": 51.5089,
+        "longitude": -0.1283,
+        "adult_price": 0.0
+    },
+    {
+        "name": "National Portrait Gallery",
+        "category": "gallery",
+        "description": "Portraits of famous British people, from Tudor kings to pop stars.",
+        "tags": [
+            "art",
+            "history",
+            "people"
+        ],
+        "area": "Trafalgar Square",
+        "postcode": "WC2H 0HE",
+        "nearest_station": "Charing Cross",
+        "latitude": 51.5094,
+        "longitude": -0.1281,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Imperial War Museum London",
+        "category": "museum",
+        "description": "Moving museum about modern wars. The Holocaust galleries are very powerful.",
+        "tags": [
+            "history",
+            "war"
+        ],
+        "area": "Lambeth",
+        "postcode": "SE1 6HZ",
+        "nearest_station": "Lambeth North",
+        "latitude": 51.4958,
+        "longitude": -0.1086,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Museum of London Docklands",
+        "category": "museum",
+        "description": "Old sugar warehouse telling the story of the river and the docks.",
+        "tags": [
+            "history",
+            "river"
+        ],
+        "area": "Canary Wharf",
+        "postcode": "E14 4AL",
+        "nearest_station": "West India Quay",
+        "latitude": 51.5075,
+        "longitude": -0.0236,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Sir John Soane's Museum",
+        "category": "museum",
+        "description": "Strange and wonderful house crammed with statues and paintings. Small, so expect a queue.",
+        "tags": [
+            "history",
+            "architecture",
+            "hidden gem"
+        ],
+        "area": "Holborn",
+        "postcode": "WC2A 3BP",
+        "nearest_station": "Holborn",
+        "latitude": 51.517,
+        "longitude": -0.1174,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Wallace Collection",
+        "category": "gallery",
+        "description": "Grand townhouse full of paintings and armour. Rarely busy.",
+        "tags": [
+            "art",
+            "history",
+            "hidden gem"
+        ],
+        "area": "Marylebone",
+        "postcode": "W1U 3BN",
+        "nearest_station": "Bond Street",
+        "latitude": 51.5175,
+        "longitude": -0.1528,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Wellcome Collection",
+        "category": "museum",
+        "description": "Free exhibitions about health and the human body. A bit unusual but interesting.",
+        "tags": [
+            "science",
+            "culture"
+        ],
+        "area": "Euston",
+        "postcode": "NW1 2BE",
+        "nearest_station": "Euston Square",
+        "latitude": 51.5259,
+        "longitude": -0.134,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Horniman Museum and Gardens",
+        "category": "museum",
+        "description": "Natural history, musical instruments and a small aquarium, plus gardens with city views.",
+        "tags": [
+            "family",
+            "nature"
+        ],
+        "area": "Forest Hill",
+        "postcode": "SE23 3PQ",
+        "nearest_station": "Forest Hill",
+        "latitude": 51.4413,
+        "longitude": -0.0608,
+        "adult_price": 0.0
+    },
+    {
+        "name": "National Maritime Museum",
+        "category": "museum",
+        "description": "Ships, sea battles and explorers. Good to pair with the rest of Greenwich.",
+        "tags": [
+            "history",
+            "river"
+        ],
+        "area": "Greenwich",
+        "postcode": "SE10 9NF",
+        "nearest_station": "Cutty Sark",
+        "latitude": 51.481,
+        "longitude": -0.0054,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Design Museum",
+        "category": "museum",
+        "description": "Everyday objects and design history. The permanent collection is free.",
+        "tags": [
+            "design",
+            "modern"
+        ],
+        "area": "Kensington",
+        "postcode": "W8 6AG",
+        "nearest_station": "High Street Kensington",
+        "latitude": 51.5,
+        "longitude": -0.2003,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Saatchi Gallery",
+        "category": "gallery",
+        "description": "Contemporary art shows near Sloane Square. Often free to visit.",
+        "tags": [
+            "art",
+            "modern"
+        ],
+        "area": "Chelsea",
+        "postcode": "SW3 4RY",
+        "nearest_station": "Sloane Square",
+        "latitude": 51.4904,
+        "longitude": -0.1588,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Whitechapel Gallery",
+        "category": "gallery",
+        "description": "Small contemporary art gallery in East London.",
+        "tags": [
+            "art",
+            "modern"
+        ],
+        "area": "Whitechapel",
+        "postcode": "E1 7QX",
+        "nearest_station": "Aldgate East",
+        "latitude": 51.516,
+        "longitude": -0.07,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Guildhall Art Gallery",
+        "category": "gallery",
+        "description": "City art collection with the remains of a Roman amphitheatre in the basement.",
+        "tags": [
+            "art",
+            "history",
+            "roman"
+        ],
+        "area": "City of London",
+        "postcode": "EC2V 5AE",
+        "nearest_station": "Bank",
+        "latitude": 51.5157,
+        "longitude": -0.0918,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Royal Air Force Museum London",
+        "category": "museum",
+        "description": "Hangars full of real aircraft, including Spitfires. A bit out of the centre.",
+        "tags": [
+            "history",
+            "family",
+            "planes"
+        ],
+        "area": "Hendon",
+        "postcode": "NW9 5LL",
+        "nearest_station": "Colindale",
+        "latitude": 51.5967,
+        "longitude": -0.2393,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Museum of the Home",
+        "category": "museum",
+        "description": "Rooms set up as living rooms from different centuries.",
+        "tags": [
+            "history",
+            "culture"
+        ],
+        "area": "Hoxton",
+        "postcode": "E2 8EA",
+        "nearest_station": "Hoxton",
+        "latitude": 51.5317,
+        "longitude": -0.076,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Bank of England Museum",
+        "category": "museum",
+        "description": "Learn how money works and try lifting a real gold bar.",
+        "tags": [
+            "history",
+            "money"
+        ],
+        "area": "City of London",
+        "postcode": "EC2R 8AH",
+        "nearest_station": "Bank",
+        "latitude": 51.5141,
+        "longitude": -0.088,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Young V&A",
+        "category": "museum",
+        "description": "Museum of play and design made for children.",
+        "tags": [
+            "family",
+            "design"
+        ],
+        "area": "Bethnal Green",
+        "postcode": "E2 9PA",
+        "nearest_station": "Bethnal Green",
+        "latitude": 51.529,
+        "longitude": -0.0553,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Hunterian Museum",
+        "category": "museum",
+        "description": "Medical history collection - not for the squeamish!",
+        "tags": [
+            "science",
+            "history"
+        ],
+        "area": "Holborn",
+        "postcode": "WC2A 3PE",
+        "nearest_station": "Holborn",
+        "latitude": 51.5156,
+        "longitude": -0.1166,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Serpentine Galleries",
+        "category": "gallery",
+        "description": "Two small galleries in Kensington Gardens with a new pavilion every summer.",
+        "tags": [
+            "art",
+            "outdoor"
+        ],
+        "area": "Kensington Gardens",
+        "postcode": "W2 3XA",
+        "nearest_station": "Lancaster Gate",
+        "latitude": 51.5048,
+        "longitude": -0.175,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Hyde Park",
+        "category": "park",
+        "description": "Big royal park. You can hire a pedalo on the Serpentine in summer.",
+        "tags": [
+            "outdoor",
+            "nature",
+            "royal"
+        ],
+        "area": "Hyde Park",
+        "postcode": "W2 2UH",
+        "nearest_station": "Hyde Park Corner",
+        "latitude": 51.5073,
+        "longitude": -0.1657,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Regent's Park",
+        "category": "park",
+        "description": "Lovely rose gardens and lots of open space. London Zoo is at the north end.",
+        "tags": [
+            "outdoor",
+            "nature"
+        ],
+        "area": "Marylebone",
+        "postcode": "NW1 4NR",
+        "nearest_station": "Regent's Park",
+        "latitude": 51.5313,
+        "longitude": -0.157,
+        "adult_price": 0.0
+    },
+    {
+        "name": "St James's Park",
+        "category": "park",
+        "description": "Small park with a lake, pelicans and a nice view of Buckingham Palace.",
+        "tags": [
+            "outdoor",
+            "royal"
+        ],
+        "area": "Westminster",
+        "postcode": "SW1A 2BJ",
+        "nearest_station": "St James's Park",
+        "latitude": 51.5025,
+        "longitude": -0.1348,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Greenwich Park",
+        "category": "park",
+        "description": "Walk up the hill for one of the best views of Canary Wharf and the city.",
+        "tags": [
+            "outdoor",
+            "views"
+        ],
+        "area": "Greenwich",
+        "postcode": "SE10 8QY",
+        "nearest_station": "Cutty Sark",
+        "latitude": 51.4769,
+        "longitude": 0.0005,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Richmond Park",
+        "category": "park",
+        "description": "Massive park with wild deer roaming around. Keep your distance in autumn.",
+        "tags": [
+            "outdoor",
+            "nature",
+            "wildlife"
+        ],
+        "area": "Richmond",
+        "postcode": "TW10 5HS",
+        "nearest_station": "Richmond",
+        "latitude": 51.4425,
+        "longitude": -0.275,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Hampstead Heath",
+        "category": "park",
+        "description": "Wild and hilly heath. Parliament Hill has a great free view of the skyline.",
+        "tags": [
+            "outdoor",
+            "views",
+            "nature"
+        ],
+        "area": "Hampstead",
+        "postcode": "NW3 1TH",
+        "nearest_station": "Hampstead Heath",
+        "latitude": 51.5608,
+        "longitude": -0.1631,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Kensington Gardens",
+        "category": "park",
+        "description": "Next to Hyde Park, with the Peter Pan statue and the Italian Gardens.",
+        "tags": [
+            "outdoor",
+            "family"
+        ],
+        "area": "Kensington",
+        "postcode": "W2 2UH",
+        "nearest_station": "Lancaster Gate",
+        "latitude": 51.5069,
+        "longitude": -0.1795,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Primrose Hill",
+        "category": "viewpoint",
+        "description": "Short climb, amazing free view. Popular at sunset.",
+        "tags": [
+            "views",
+            "outdoor"
+        ],
+        "area": "Primrose Hill",
+        "postcode": "NW1 4NR",
+        "nearest_station": "Chalk Farm",
+        "latitude": 51.5394,
+        "longitude": -0.1608,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Victoria Park",
+        "category": "park",
+        "description": "East London's favourite park, with lakes and a Sunday food market nearby.",
+        "tags": [
+            "outdoor",
+            "family"
+        ],
+        "area": "Hackney",
+        "postcode": "E9 7BT",
+        "nearest_station": "Mile End",
+        "latitude": 51.5362,
+        "longitude": -0.0388,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Battersea Park",
+        "category": "park",
+        "description": "Riverside park with a boating lake, a small children's zoo and a peace pagoda.",
+        "tags": [
+            "outdoor",
+            "family"
+        ],
+        "area": "Battersea",
+        "postcode": "SW11 4NJ",
+        "nearest_station": "Battersea Power Station",
+        "latitude": 51.4791,
+        "longitude": -0.1564,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Holland Park",
+        "category": "park",
+        "description": "Peaceful park with a Japanese Kyoto Garden and peacocks wandering about.",
+        "tags": [
+            "outdoor",
+            "nature",
+            "hidden gem"
+        ],
+        "area": "Kensington",
+        "postcode": "W8 6LU",
+        "nearest_station": "Holland Park",
+        "latitude": 51.503,
+        "longitude": -0.2036,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Queen Elizabeth Olympic Park",
+        "category": "park",
+        "description": "The 2012 Olympic site. Good for a walk, cycling and the playgrounds.",
+        "tags": [
+            "outdoor",
+            "sport"
+        ],
+        "area": "Stratford",
+        "postcode": "E20 2ST",
+        "nearest_station": "Stratford",
+        "latitude": 51.543,
+        "longitude": -0.0166,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Green Park",
+        "category": "park",
+        "description": "Simple, quiet park with lots of deckchairs, right next to the Palace.",
+        "tags": [
+            "outdoor",
+            "royal"
+        ],
+        "area": "Mayfair",
+        "postcode": "SW1A 1BW",
+        "nearest_station": "Green Park",
+        "latitude": 51.5046,
+        "longitude": -0.1427,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Sky Garden",
+        "category": "viewpoint",
+        "description": "Free rooftop garden at the top of the Walkie-Talkie building. You need to book ahead.",
+        "tags": [
+            "views",
+            "modern",
+            "free days out"
+        ],
+        "area": "City of London",
+        "postcode": "EC3M 8AF",
+        "nearest_station": "Monument",
+        "latitude": 51.5113,
+        "longitude": -0.0835,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Little Venice",
+        "category": "landmark",
+        "description": "Canals and colourful narrowboats. Nice walk along to Camden.",
+        "tags": [
+            "outdoor",
+            "river"
+        ],
+        "area": "Maida Vale",
+        "postcode": "W2 6NE",
+        "nearest_station": "Warwick Avenue",
+        "latitude": 51.5225,
+        "longitude": -0.1836,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Trafalgar Square",
+        "category": "landmark",
+        "description": "Nelson's Column, fountains and the big lions. Lots going on most days.",
+        "tags": [
+            "history",
+            "outdoor"
+        ],
+        "area": "Westminster",
+        "postcode": "WC2N 5DN",
+        "nearest_station": "Charing Cross",
+        "latitude": 51.508,
+        "longitude": -0.1281,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Big Ben and Parliament Square",
+        "category": "landmark",
+        "description": "The famous clock tower and the Houses of Parliament. Best photos from Westminster Bridge.",
+        "tags": [
+            "history",
+            "photography"
+        ],
+        "area": "Westminster",
+        "postcode": "SW1A 0AA",
+        "nearest_station": "Westminster",
+        "latitude": 51.5007,
+        "longitude": -0.1246,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Piccadilly Circus",
+        "category": "landmark",
+        "description": "Bright screens and busy crowds. Good starting point for the West End.",
+        "tags": [
+            "city",
+            "shopping"
+        ],
+        "area": "West End",
+        "postcode": "W1J 9HS",
+        "nearest_station": "Piccadilly Circus",
+        "latitude": 51.51,
+        "longitude": -0.1347,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Covent Garden",
+        "category": "market",
+        "description": "Old market hall with street performers, shops and cafes.",
+        "tags": [
+            "shopping",
+            "food",
+            "street performers"
+        ],
+        "area": "Covent Garden",
+        "postcode": "WC2E 8RF",
+        "nearest_station": "Covent Garden",
+        "latitude": 51.5117,
+        "longitude": -0.124,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Borough Market",
+        "category": "market",
+        "description": "London's most famous food market. Go hungry and try a bit of everything.",
+        "tags": [
+            "food",
+            "shopping"
+        ],
+        "area": "Southwark",
+        "postcode": "SE1 9AL",
+        "nearest_station": "London Bridge",
+        "latitude": 51.5055,
+        "longitude": -0.091,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Camden Market",
+        "category": "market",
+        "description": "Street food from around the world and lots of vintage stalls.",
+        "tags": [
+            "food",
+            "shopping",
+            "music"
+        ],
+        "area": "Camden",
+        "postcode": "NW1 8AF",
+        "nearest_station": "Camden Town",
+        "latitude": 51.5414,
+        "longitude": -0.146,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Portobello Road Market",
+        "category": "market",
+        "description": "Antiques and vintage stalls. Saturday is the main market day.",
+        "tags": [
+            "shopping",
+            "culture"
+        ],
+        "area": "Notting Hill",
+        "postcode": "W11 1LJ",
+        "nearest_station": "Ladbroke Grove",
+        "latitude": 51.5155,
+        "longitude": -0.2055,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Columbia Road Flower Market",
+        "category": "market",
+        "description": "Sunday-only flower market. Busy but very pretty.",
+        "tags": [
+            "shopping",
+            "nature"
+        ],
+        "area": "Bethnal Green",
+        "postcode": "E2 7RG",
+        "nearest_station": "Hoxton",
+        "latitude": 51.5293,
+        "longitude": -0.0704,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Old Spitalfields Market",
+        "category": "market",
+        "description": "Covered market with food, fashion and crafts, open most days.",
+        "tags": [
+            "food",
+            "shopping"
+        ],
+        "area": "Spitalfields",
+        "postcode": "E1 6EW",
+        "nearest_station": "Liverpool Street",
+        "latitude": 51.5196,
+        "longitude": -0.0753,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Leadenhall Market",
+        "category": "market",
+        "description": "Beautiful Victorian covered market in the City. Used in a famous wizard film.",
+        "tags": [
+            "history",
+            "shopping",
+            "photography"
+        ],
+        "area": "City of London",
+        "postcode": "EC3V 1LT",
+        "nearest_station": "Bank",
+        "latitude": 51.5128,
+        "longitude": -0.0834,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Brick Lane",
+        "category": "market",
+        "description": "Curry houses, bagels, street art and vintage shops.",
+        "tags": [
+            "food",
+            "culture"
+        ],
+        "area": "Shoreditch",
+        "postcode": "E1 6QR",
+        "nearest_station": "Aldgate East",
+        "latitude": 51.5215,
+        "longitude": -0.0718,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Southbank Centre",
+        "category": "landmark",
+        "description": "Arts centre on the river with free events and a skate park underneath.",
+        "tags": [
+            "culture",
+            "river"
+        ],
+        "area": "South Bank",
+        "postcode": "SE1 8XX",
+        "nearest_station": "Waterloo",
+        "latitude": 51.5058,
+        "longitude": -0.117,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Millennium Bridge",
+        "category": "landmark",
+        "description": "Footbridge from St Paul's to Tate Modern with great river views.",
+        "tags": [
+            "river",
+            "views"
+        ],
+        "area": "Bankside",
+        "postcode": "EC4V 3QH",
+        "nearest_station": "Mansion House",
+        "latitude": 51.5095,
+        "longitude": -0.0985,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Chinatown London",
+        "category": "landmark",
+        "description": "Colourful streets full of restaurants and bakeries. Great for cheap food.",
+        "tags": [
+            "food",
+            "culture"
+        ],
+        "area": "Soho",
+        "postcode": "W1D 6JN",
+        "nearest_station": "Leicester Square",
+        "latitude": 51.5113,
+        "longitude": -0.131,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Leicester Square",
+        "category": "landmark",
+        "description": "Cinemas, M&M's World and the half-price theatre ticket booth.",
+        "tags": [
+            "city",
+            "entertainment"
+        ],
+        "area": "West End",
+        "postcode": "WC2H 7LU",
+        "nearest_station": "Leicester Square",
+        "latitude": 51.5103,
+        "longitude": -0.1301,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Granary Square",
+        "category": "landmark",
+        "description": "Canal-side square with fountains you can walk through. Lots of places to eat.",
+        "tags": [
+            "outdoor",
+            "food"
+        ],
+        "area": "King's Cross",
+        "postcode": "N1C 4AA",
+        "nearest_station": "King's Cross St Pancras",
+        "latitude": 51.5355,
+        "longitude": -0.1257,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Abbey Road Crossing",
+        "category": "landmark",
+        "description": "The zebra crossing from the Beatles album cover. Watch out for traffic!",
+        "tags": [
+            "music",
+            "culture"
+        ],
+        "area": "St John's Wood",
+        "postcode": "NW8 9AY",
+        "nearest_station": "St John's Wood",
+        "latitude": 51.532,
+        "longitude": -0.1779,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Shoreditch Street Art",
+        "category": "landmark",
+        "description": "Walls and side streets covered in street art that changes all the time.",
+        "tags": [
+            "art",
+            "outdoor"
+        ],
+        "area": "Shoreditch",
+        "postcode": "E1 6JE",
+        "nearest_station": "Shoreditch High Street",
+        "latitude": 51.5245,
+        "longitude": -0.0775,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Thames Barrier Park",
+        "category": "park",
+        "description": "Modern park right next to the Thames Barrier. Rarely crowded.",
+        "tags": [
+            "outdoor",
+            "river"
+        ],
+        "area": "Silvertown",
+        "postcode": "E16 2HP",
+        "nearest_station": "Pontoon Dock",
+        "latitude": 51.5017,
+        "longitude": 0.0347,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Kenwood House",
+        "category": "landmark",
+        "description": "Free historic house on Hampstead Heath with a Rembrandt self-portrait.",
+        "tags": [
+            "history",
+            "art"
+        ],
+        "area": "Hampstead",
+        "postcode": "NW3 7JR",
+        "nearest_station": "Golders Green",
+        "latitude": 51.5712,
+        "longitude": -0.1676,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Old Royal Naval College",
+        "category": "landmark",
+        "description": "Wren's riverside buildings. Often used as a film location.",
+        "tags": [
+            "history",
+            "architecture"
+        ],
+        "area": "Greenwich",
+        "postcode": "SE10 9NN",
+        "nearest_station": "Cutty Sark",
+        "latitude": 51.4827,
+        "longitude": -0.0056,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Southwark Cathedral",
+        "category": "landmark",
+        "description": "Oldest Gothic church in London, right by Borough Market.",
+        "tags": [
+            "history",
+            "architecture"
+        ],
+        "area": "Southwark",
+        "postcode": "SE1 9DA",
+        "nearest_station": "London Bridge",
+        "latitude": 51.5061,
+        "longitude": -0.0898,
+        "adult_price": 0.0
+    },
+    {
+        "name": "Tower of London",
+        "category": "landmark",
+        "description": "Castle with the Crown Jewels and the Beefeaters. Join a free Yeoman Warder tour.",
+        "tags": [
+            "history",
+            "royal"
+        ],
+        "area": "City of London",
+        "postcode": "EC3N 4AB",
+        "nearest_station": "Tower Hill",
+        "latitude": 51.5081,
+        "longitude": -0.0759,
+        "adult_price": 34.8
+    },
+    {
+        "name": "Westminster Abbey",
+        "category": "landmark",
+        "description": "Where coronations and royal weddings happen. Lots of famous graves inside.",
+        "tags": [
+            "history",
+            "royal"
+        ],
+        "area": "Westminster",
+        "postcode": "SW1P 3PA",
+        "nearest_station": "Westminster",
+        "latitude": 51.4993,
+        "longitude": -0.1273,
+        "adult_price": 30.0
+    },
+    {
+        "name": "St Paul's Cathedral",
+        "category": "landmark",
+        "description": "Climb the dome for a great view. Try the Whispering Gallery.",
+        "tags": [
+            "history",
+            "architecture",
+            "views"
+        ],
+        "area": "City of London",
+        "postcode": "EC4M 8AD",
+        "nearest_station": "St Paul's",
+        "latitude": 51.5138,
+        "longitude": -0.0984,
+        "adult_price": 26.0
+    },
+    {
+        "name": "London Eye",
+        "category": "viewpoint",
+        "description": "Big wheel on the South Bank. One full turn takes about 30 minutes.",
+        "tags": [
+            "views",
+            "family"
+        ],
+        "area": "South Bank",
+        "postcode": "SE1 7PB",
+        "nearest_station": "Waterloo",
+        "latitude": 51.5033,
+        "longitude": -0.1196,
+        "adult_price": 32.0
+    },
+    {
+        "name": "Tower Bridge Exhibition",
+        "category": "landmark",
+        "description": "Walk across the glass floor high above the river.",
+        "tags": [
+            "history",
+            "views"
+        ],
+        "area": "Tower Hill",
+        "postcode": "SE1 2UP",
+        "nearest_station": "Tower Hill",
+        "latitude": 51.5055,
+        "longitude": -0.0754,
+        "adult_price": 13.4
+    },
+    {
+        "name": "Buckingham Palace State Rooms",
+        "category": "landmark",
+        "description": "The State Rooms are only open in the summer, so check dates first.",
+        "tags": [
+            "royal",
+            "history"
+        ],
+        "area": "Westminster",
+        "postcode": "SW1A 1AA",
+        "nearest_station": "Green Park",
+        "latitude": 51.5014,
+        "longitude": -0.1419,
+        "adult_price": 33.0
+    },
+    {
+        "name": "Kensington Palace",
+        "category": "landmark",
+        "description": "Royal palace where Princess Diana lived, with nice gardens.",
+        "tags": [
+            "royal",
+            "history"
+        ],
+        "area": "Kensington",
+        "postcode": "W8 4PX",
+        "nearest_station": "Queensway",
+        "latitude": 51.5058,
+        "longitude": -0.1877,
+        "adult_price": 27.0
+    },
+    {
+        "name": "Hampton Court Palace",
+        "category": "landmark",
+        "description": "Henry VIII's palace with a famous hedge maze. Plan a full day.",
+        "tags": [
+            "royal",
+            "history",
+            "family"
+        ],
+        "area": "East Molesey",
+        "postcode": "KT8 9AU",
+        "nearest_station": "Hampton Court",
+        "latitude": 51.4036,
+        "longitude": -0.3378,
+        "adult_price": 29.8
+    },
+    {
+        "name": "Kew Gardens",
+        "category": "park",
+        "description": "Huge botanic gardens with Victorian glasshouses and a treetop walkway.",
+        "tags": [
+            "nature",
+            "outdoor"
+        ],
+        "area": "Richmond",
+        "postcode": "TW9 3AE",
+        "nearest_station": "Kew Gardens",
+        "latitude": 51.4787,
+        "longitude": -0.2956,
+        "adult_price": 22.0
+    },
+    {
+        "name": "The View from The Shard",
+        "category": "viewpoint",
+        "description": "Highest viewing platform in London. Pricey, but the view is something else.",
+        "tags": [
+            "views",
+            "modern"
+        ],
+        "area": "London Bridge",
+        "postcode": "SE1 9SG",
+        "nearest_station": "London Bridge",
+        "latitude": 51.5045,
+        "longitude": -0.0865,
+        "adult_price": 28.0
+    },
+    {
+        "name": "Churchill War Rooms",
+        "category": "museum",
+        "description": "The secret bunker where Churchill ran the war. Very well done.",
+        "tags": [
+            "history",
+            "war"
+        ],
+        "area": "Westminster",
+        "postcode": "SW1A 2AQ",
+        "nearest_station": "Westminster",
+        "latitude": 51.5021,
+        "longitude": -0.1291,
+        "adult_price": 33.0
+    },
+    {
+        "name": "Cutty Sark",
+        "category": "museum",
+        "description": "Famous old tea clipper ship that you can walk underneath.",
+        "tags": [
+            "history",
+            "river"
+        ],
+        "area": "Greenwich",
+        "postcode": "SE10 9HT",
+        "nearest_station": "Cutty Sark",
+        "latitude": 51.4827,
+        "longitude": -0.0096,
+        "adult_price": 20.0
+    },
+    {
+        "name": "Royal Observatory Greenwich",
+        "category": "museum",
+        "description": "Stand on the Prime Meridian line. Planetarium shows too.",
+        "tags": [
+            "science",
+            "history"
+        ],
+        "area": "Greenwich",
+        "postcode": "SE10 8XJ",
+        "nearest_station": "Cutty Sark",
+        "latitude": 51.4769,
+        "longitude": -0.0005,
+        "adult_price": 24.0
+    },
+    {
+        "name": "ZSL London Zoo",
+        "category": "attraction",
+        "description": "The oldest scientific zoo in the world. Gorillas and penguins are favourites.",
+        "tags": [
+            "family",
+            "nature",
+            "animals"
+        ],
+        "area": "Regent's Park",
+        "postcode": "NW1 4RY",
+        "nearest_station": "Camden Town",
+        "latitude": 51.5353,
+        "longitude": -0.1534,
+        "adult_price": 33.0
+    },
+    {
+        "name": "SEA LIFE London Aquarium",
+        "category": "attraction",
+        "description": "Sharks, penguins and lots of fish next to the London Eye.",
+        "tags": [
+            "family",
+            "animals"
+        ],
+        "area": "South Bank",
+        "postcode": "SE1 7PB",
+        "nearest_station": "Waterloo",
+        "latitude": 51.5014,
+        "longitude": -0.1196,
+        "adult_price": 30.0
+    },
+    {
+        "name": "Madame Tussauds London",
+        "category": "attraction",
+        "description": "Wax figures of celebrities. Book online, it's cheaper.",
+        "tags": [
+            "family",
+            "entertainment"
+        ],
+        "area": "Marylebone",
+        "postcode": "NW1 5LR",
+        "nearest_station": "Baker Street",
+        "latitude": 51.5229,
+        "longitude": -0.155,
+        "adult_price": 38.0
+    },
+    {
+        "name": "The London Dungeon",
+        "category": "attraction",
+        "description": "Scary actors and rides about London's dark history. Not for young kids.",
+        "tags": [
+            "history",
+            "entertainment"
+        ],
+        "area": "South Bank",
+        "postcode": "SE1 7PB",
+        "nearest_station": "Waterloo",
+        "latitude": 51.5025,
+        "longitude": -0.1196,
+        "adult_price": 30.0
+    },
+    {
+        "name": "Sherlock Holmes Museum",
+        "category": "museum",
+        "description": "Small museum at 221b Baker Street set up like Sherlock's flat.",
+        "tags": [
+            "culture",
+            "books"
+        ],
+        "area": "Marylebone",
+        "postcode": "NW1 6XE",
+        "nearest_station": "Baker Street",
+        "latitude": 51.5238,
+        "longitude": -0.1586,
+        "adult_price": 16.0
+    },
+    {
+        "name": "Shakespeare's Globe",
+        "category": "landmark",
+        "description": "Rebuilt open-air theatre. Standing tickets for plays are really cheap.",
+        "tags": [
+            "history",
+            "theatre"
+        ],
+        "area": "Bankside",
+        "postcode": "SE1 9DT",
+        "nearest_station": "London Bridge",
+        "latitude": 51.5081,
+        "longitude": -0.0972,
+        "adult_price": 25.0
+    },
+    {
+        "name": "HMS Belfast",
+        "category": "museum",
+        "description": "Real Second World War warship you can explore, from engine room to deck.",
+        "tags": [
+            "history",
+            "war"
+        ],
+        "area": "London Bridge",
+        "postcode": "SE1 2JH",
+        "nearest_station": "London Bridge",
+        "latitude": 51.5066,
+        "longitude": -0.0813,
+        "adult_price": 25.0
+    },
+    {
+        "name": "London Transport Museum",
+        "category": "museum",
+        "description": "Old buses and Tube trains. Kids love climbing on them.",
+        "tags": [
+            "history",
+            "family",
+            "transport"
+        ],
+        "area": "Covent Garden",
+        "postcode": "WC2E 7BB",
+        "nearest_station": "Covent Garden",
+        "latitude": 51.5119,
+        "longitude": -0.1214,
+        "adult_price": 24.0
+    },
+    {
+        "name": "Up at The O2",
+        "category": "attraction",
+        "description": "Guided walk over the roof of The O2. Good fun on a clear day.",
+        "tags": [
+            "views",
+            "adventure"
+        ],
+        "area": "Greenwich Peninsula",
+        "postcode": "SE10 0DX",
+        "nearest_station": "North Greenwich",
+        "latitude": 51.503,
+        "longitude": 0.0032,
+        "adult_price": 35.0
+    },
+    {
+        "name": "IFS Cloud Cable Car",
+        "category": "attraction",
+        "description": "Short cable car ride over the Thames with good views. Cheap with an Oyster card.",
+        "tags": [
+            "views",
+            "river"
+        ],
+        "area": "Greenwich Peninsula",
+        "postcode": "SE10 0FR",
+        "nearest_station": "North Greenwich",
+        "latitude": 51.4997,
+        "longitude": 0.008,
+        "adult_price": 7.0
+    },
+    {
+        "name": "The Monument",
+        "category": "viewpoint",
+        "description": "311 steps to the top - cheap and a great view of the City.",
+        "tags": [
+            "history",
+            "views"
+        ],
+        "area": "City of London",
+        "postcode": "EC3R 8AH",
+        "nearest_station": "Monument",
+        "latitude": 51.5101,
+        "longitude": -0.086,
+        "adult_price": 6.0
+    },
+    {
+        "name": "Museum of Brands",
+        "category": "museum",
+        "description": "Old packaging and adverts from the last 200 years. Very nostalgic.",
+        "tags": [
+            "history",
+            "culture"
+        ],
+        "area": "Notting Hill",
+        "postcode": "W11 1QT",
+        "nearest_station": "Ladbroke Grove",
+        "latitude": 51.516,
+        "longitude": -0.2085,
+        "adult_price": 15.0
+    },
+    {
+        "name": "Charles Dickens Museum",
+        "category": "museum",
+        "description": "The house where Dickens wrote Oliver Twist.",
+        "tags": [
+            "history",
+            "books"
+        ],
+        "area": "Bloomsbury",
+        "postcode": "WC1N 2LX",
+        "nearest_station": "Russell Square",
+        "latitude": 51.5233,
+        "longitude": -0.116,
+        "adult_price": 15.0
+    },
+    {
+        "name": "The Postal Museum",
+        "category": "museum",
+        "description": "Ride the tiny underground Mail Rail train. Surprisingly fun.",
+        "tags": [
+            "history",
+            "family"
+        ],
+        "area": "Clerkenwell",
+        "postcode": "WC1X 0DA",
+        "nearest_station": "Farringdon",
+        "latitude": 51.5243,
+        "longitude": -0.1124,
+        "adult_price": 18.0
+    },
+    {
+        "name": "Royal Albert Hall Tour",
+        "category": "landmark",
+        "description": "Guided tour of the famous concert hall, including the royal box.",
+        "tags": [
+            "music",
+            "history"
+        ],
+        "area": "South Kensington",
+        "postcode": "SW7 2AP",
+        "nearest_station": "South Kensington",
+        "latitude": 51.5009,
+        "longitude": -0.1774,
+        "adult_price": 20.0
+    },
+    {
+        "name": "Lift 109 at Battersea Power Station",
+        "category": "viewpoint",
+        "description": "Glass lift up one of the old chimneys for a 360-degree view.",
+        "tags": [
+            "views",
+            "modern"
+        ],
+        "area": "Battersea",
+        "postcode": "SW11 8DD",
+        "nearest_station": "Battersea Power Station",
+        "latitude": 51.4817,
+        "longitude": -0.1445,
+        "adult_price": 15.0
+    },
+    {
+        "name": "Eltham Palace",
+        "category": "landmark",
+        "description": "Art Deco house built next to a medieval palace. Quite far out but worth it.",
+        "tags": [
+            "history",
+            "architecture"
+        ],
+        "area": "Eltham",
+        "postcode": "SE9 5QE",
+        "nearest_station": "Eltham",
+        "latitude": 51.4475,
+        "longitude": 0.0485,
+        "adult_price": 19.0
+    },
+    {
+        "name": "Chelsea Physic Garden",
+        "category": "park",
+        "description": "London's oldest botanic garden, full of medicinal plants.",
+        "tags": [
+            "nature",
+            "outdoor"
+        ],
+        "area": "Chelsea",
+        "postcode": "SW3 4HS",
+        "nearest_station": "Sloane Square",
+        "latitude": 51.4852,
+        "longitude": -0.1631,
+        "adult_price": 15.0
+    },
+    {
+        "name": "Apsley House",
+        "category": "museum",
+        "description": "The Duke of Wellington's home, known as Number One London.",
+        "tags": [
+            "history",
+            "art"
+        ],
+        "area": "Hyde Park Corner",
+        "postcode": "W1J 7NT",
+        "nearest_station": "Hyde Park Corner",
+        "latitude": 51.5034,
+        "longitude": -0.1517,
+        "adult_price": 15.0
+    },
+    {
+        "name": "Dennis Severs' House",
+        "category": "museum",
+        "description": "Candle-lit house set up as if a family from the 1700s just left the room.",
+        "tags": [
+            "history",
+            "culture",
+            "hidden gem"
+        ],
+        "area": "Spitalfields",
+        "postcode": "E1 6BX",
+        "nearest_station": "Liverpool Street",
+        "latitude": 51.5202,
+        "longitude": -0.0771,
+        "adult_price": 18.0
+    },
+    {
+        "name": "Wimbledon Lawn Tennis Museum",
+        "category": "museum",
+        "description": "Tennis history, trophies and a view over Centre Court.",
+        "tags": [
+            "sport",
+            "history"
+        ],
+        "area": "Wimbledon",
+        "postcode": "SW19 5AE",
+        "nearest_station": "Southfields",
+        "latitude": 51.434,
+        "longitude": -0.2141,
+        "adult_price": 18.0
+    },
+    {
+        "name": "Lord's Cricket Ground Tour",
+        "category": "landmark",
+        "description": "Tour of the home of cricket, including the famous Long Room.",
+        "tags": [
+            "sport",
+            "history"
+        ],
+        "area": "St John's Wood",
+        "postcode": "NW8 8QN",
+        "nearest_station": "St John's Wood",
+        "latitude": 51.5294,
+        "longitude": -0.1727,
+        "adult_price": 27.0
+    },
+    {
+        "name": "Emirates Stadium Tour",
+        "category": "landmark",
+        "description": "Behind-the-scenes stadium tour with the dressing rooms and tunnel.",
+        "tags": [
+            "sport",
+            "family"
+        ],
+        "area": "Holloway",
+        "postcode": "N5 1BU",
+        "nearest_station": "Arsenal",
+        "latitude": 51.5549,
+        "longitude": -0.1084,
+        "adult_price": 30.0
+    },
+    {
+        "name": "Wembley Stadium Tour",
+        "category": "landmark",
+        "description": "See the dressing rooms and the Royal Box at England's national stadium.",
+        "tags": [
+            "sport",
+            "family"
+        ],
+        "area": "Wembley",
+        "postcode": "HA9 0WS",
+        "nearest_station": "Wembley Park",
+        "latitude": 51.556,
+        "longitude": -0.2796,
+        "adult_price": 27.0
+    },
+    {
+        "name": "The Fan Museum",
+        "category": "museum",
+        "description": "Tiny museum all about hand fans, with afternoon tea in the orangery.",
+        "tags": [
+            "art",
+            "history",
+            "hidden gem"
+        ],
+        "area": "Greenwich",
+        "postcode": "SE10 8ER",
+        "nearest_station": "Cutty Sark",
+        "latitude": 51.4785,
+        "longitude": -0.0085,
+        "adult_price": 6.0
+    }
+]
